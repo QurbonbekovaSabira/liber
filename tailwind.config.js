@@ -25,6 +25,7 @@ export default {
       "liberty-blue": "#10182c",
       white: "#FFFFFF",
       black: "#000",
+      blackDarkGray:"#10182C"
     },
   },
   plugins: [],
