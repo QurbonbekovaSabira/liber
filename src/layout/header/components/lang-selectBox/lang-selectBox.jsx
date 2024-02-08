@@ -4,7 +4,7 @@ import { UserIcon } from "../../../../assets/icon/user-icon";
 import { Lang } from "../lang/lang";
 export const LangSelectBox = () => {
   return (
-    <div className="flex grow gap-[20px]">
+    <div className="flex max-w-[250px] grow gap-[20px]">
       <Lang />
       <Button variant="primary" icon={UserIcon}>
         Kirish

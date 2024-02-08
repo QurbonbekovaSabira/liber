@@ -3,7 +3,7 @@ import { SelectMenuIcon } from "../../../../assets/icon/selectMenu-icon";
 import { SelectArrowIcon } from "../../../../assets/icon/selectArrow-icon";
 export const Select = () => {
   return (
-    <div className="border-grey bg-grey relative w-full max-w-[180px] overflow-hidden rounded-l-lg border border-solid">
+    <div className="border-grey grow bg-grey relative w-full max-w-[180px] overflow-hidden rounded-l-lg border border-solid">
       <a href="#" className="absolute left-[26px] top-[14px] mr-[5px]">
         <SelectMenuIcon />
       </a>

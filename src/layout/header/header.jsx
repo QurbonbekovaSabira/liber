@@ -5,7 +5,7 @@ import { LangSelectBox } from "./components/lang-selectBox";
 
 export const Header = () => {
   return (
-    <div className="container flex items-center gap-[50px]">
+    <div className="container flex items-center gap-[150px]">
       <a href="#">
         <img src={logo} alt="" />
       </a>
