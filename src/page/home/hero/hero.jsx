@@ -4,7 +4,7 @@ export const Hero = () => {
   return (
     <section className="pb-[56px]">
       <div className="mb-[16px]  mt-[11px]  border-spacing-y-1  border border-grey  py-[10px]">
-        <div className="container flex gap-[16px]">
+        <div className="container flex gap-[16px">
           <a href="#" className="text-base font-semibold text-primary">
             Аудиокитоб
           </a>
